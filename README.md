@@ -12,7 +12,7 @@ https://financial-fraud-detection-system-o9qe5qx25xlshtqcgewuu5.streamlit.app/
 
 # 📂 GitHub Repository
 **Source Code:**  
-Paste your GitHub repository link here
+https://github.com/hirdeshdev/financial-fraud-detection-system
 
 ---
 
